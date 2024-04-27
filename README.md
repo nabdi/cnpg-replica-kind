@@ -1,0 +1,1 @@
+# cnpg-replica-kind
